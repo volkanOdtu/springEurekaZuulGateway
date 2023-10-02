@@ -8,6 +8,8 @@ class UserServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		int a = 3;
 	}
 
 }
